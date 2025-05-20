@@ -68,28 +68,3 @@ You can change the path to your task file by modifying the constructor:
 ```python
 app = TaskApp(root, task_file="path/to/your/tasks.txt")
 ```
-
----
-
-## 🪟 Platform Notes
-
-- Rounded corners and transparency currently only work on **Windows**
-- App is always on top and non-resizable by design
-
----
-
-## 💡 Inspiration
-
-Inspired by the desire for a **distraction-free**, **quick-access**, **persistent** widget to track daily tasks, especially for programmers and power users.
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if you’d like)*
-
----
-
-## 📄 License
-
-MIT License
